@@ -1,0 +1,34 @@
+* {
+  padding: 0;
+  margin: 0; }
+
+body {
+  background: #f2f2f2;
+  font-family: Arial, Helvetica, sans-serif; }
+  body .contenedor {
+    width: 700px;
+    margin: 20px; }
+    body .contenedor header,
+    body .contenedor .main,
+    body .contenedor aside,
+    body .contenedor footer {
+      padding: 20px; }
+    body .contenedor header {
+      background: #0D2C44;
+      color: #fff; }
+    body .contenedor .main {
+      background: #fff;
+      width: 70%;
+      float: left; }
+    body .contenedor aside {
+      background: #BB1F35;
+      color: #fff;
+      width: 30%;
+      float: left; }
+    body .contenedor footer {
+      clear: both;
+      width: 100%;
+      background: #0D2C44;
+      color: #fff; }
+
+/*# sourceMappingURL=anidacion.css.map */

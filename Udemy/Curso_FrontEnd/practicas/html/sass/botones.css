@@ -1,0 +1,18 @@
+body {
+  background: #f2f2f2;
+  font-family: Arial, Helvetica, sans-serif; }
+  body .boton, body .btn-rojo, body .btn-azul, body .btn-verde {
+    display: inline-block;
+    padding: 15px 20px;
+    background: none;
+    color: #fff;
+    text-decoration: none;
+    margin-right: 20px; }
+  body .btn-rojo {
+    background: #ff2732; }
+  body .btn-azul {
+    background: #246eb9; }
+  body .btn-verde {
+    background: #4fb560; }
+
+/*# sourceMappingURL=botones.css.map */
